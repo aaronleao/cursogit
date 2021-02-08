@@ -5,6 +5,7 @@
 #include "carlosestombelo.h"
 #include "hasm.h"
 #include "marcelpinto.h"
+#include "johnatanmucelini.h"
 
 int main(){
 	printf("Hello World\n");
@@ -13,4 +14,5 @@ int main(){
 	apresentacao_italomf();
 	apresentacaoHasm();
 	apresentacaoMarcel();
+	apresentacaoJohnatanmucelini();
 }
