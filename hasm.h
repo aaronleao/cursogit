@@ -1,5 +1,5 @@
-#include <stdio>
+#include<stdio.h>
 
 void apresentacaoHasm() {
-	printf("Colaborador HASM"\n);
+	printf("Colaborador HASM\n");
 }
